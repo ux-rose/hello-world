@@ -1,7 +1,5 @@
 # hello-world
 
-My First github Repository
-
 I'm figuring out github and it's real exciting stuff! 
 
 So far I've learned: 
