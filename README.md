@@ -2,12 +2,13 @@
 
 My First github Repository
 
-So I'm learning github and it's real exciting stuff! 
-I've learned: 
+I'm figuring out github and it's real exciting stuff! 
 
-A. how to created a repository
+So far I've learned: 
 
-B. how to add branches to my repository 
+a. how to created a repository
 
-C. How to add ´commits´ which are comments on what has been iterated 
+b. how to add branches to my repository 
+
+c. how to add ´commits´ which are comments on what has been iterated 
 
